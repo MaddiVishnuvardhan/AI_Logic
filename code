@@ -36,7 +36,7 @@ else:
 print(max_sum) 
 
 #3
-s = input("s").strip()
+s = input("s:").strip()
 
 seen = set()
 left = 0
